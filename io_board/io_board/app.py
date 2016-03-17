@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Created on Mar 15, 2016
-
+This app is mean to be used with the io_board
 @author: maverickYQB
 '''
 
